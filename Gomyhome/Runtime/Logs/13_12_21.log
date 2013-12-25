@@ -1,0 +1,7 @@
+[ 2013-12-21T16:59:11+08:00 ] 127.0.0.1 /
+NOTIC: [8] Use of undefined constant 这个文件是Index配置文件 - assumed '这个文件是Index配置文件' /home/www/dev.gomyhome.cn/Gomyhome/Conf/Index/config.php 第 3 行.
+NOTIC: [8] Use of undefined constant 这个文件是共用函数库文Index件 - assumed '这个文件是共用函数库文Index件' /home/www/dev.gomyhome.cn/Gomyhome/Common/Index/function.php 第 3 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+
